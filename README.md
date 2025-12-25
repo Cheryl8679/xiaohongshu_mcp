@@ -1,4 +1,5 @@
 # Xiaohongshu MCP 本地跑通记录
+#具体见master分支
 
 ## 1. 运行环境
 - macOS (Apple Silicon)
